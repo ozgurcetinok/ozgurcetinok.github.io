@@ -15,7 +15,7 @@
         }
 
         // Change your email hosting in hire
-        $recipient = "ozgurcetinok@ucla.edu";
+        $recipient = "ozgurcetinok@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
